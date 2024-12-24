@@ -3,5 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("vedika");
+        int age = 17;
+        String vacations ="i'm doing java all my vacations";
     }
 }
